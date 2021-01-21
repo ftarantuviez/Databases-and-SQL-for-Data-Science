@@ -1,1 +1,2 @@
-# Databases_and_SQL_for_DS
+# Databases and SQL for Data Science
+## Course from IBM Data Science Specialization
